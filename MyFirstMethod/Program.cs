@@ -13,7 +13,8 @@ namespace MyAula04 {
         }
 
         static void Main(string[] args) {
-            
+            CountTo10();
+            CountTo10();
         }
 
     }
